@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://diving.fabio.xyz/categories/</loc>
+    <loc>https://diving.fabio.xyz/categories/</loc>
+    <lastmod>2021-12-11T01:06:47+01:00</lastmod>
   </url><url>
-    <loc>http://diving.fabio.xyz/</loc>
+    <loc>https://diving.fabio.xyz/tags/equipo/</loc>
+    <lastmod>2021-12-11T01:06:47+01:00</lastmod>
   </url><url>
-    <loc>http://diving.fabio.xyz/tags/</loc>
+    <loc>https://diving.fabio.xyz/categories/equipo/</loc>
+    <lastmod>2021-12-11T01:06:47+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/</loc>
+    <lastmod>2021-12-11T01:06:47+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/posts/mi_equipo/</loc>
+    <lastmod>2021-12-11T01:06:47+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/posts/</loc>
+    <lastmod>2021-12-11T01:06:47+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/</loc>
+    <lastmod>2021-12-11T01:06:47+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/posts/bienvenida/</loc>
+    <lastmod>2021-12-10T23:30:26+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/categories/ideas/</loc>
+    <lastmod>2021-12-10T23:30:26+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/opinion/</loc>
+    <lastmod>2021-12-10T23:30:26+01:00</lastmod>
   </url>
 </urlset>
