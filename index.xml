@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Mi blog de buceo</title>
-        <link>https://diving.fabio.xyz/</link>
+        <link>http://diving.fabio.xyz/</link>
         <description>Recent content on Mi blog de buceo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-es</language>
-        <lastBuildDate>Sat, 11 Dec 2021 01:06:47 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 11 Dec 2021 01:06:47 +0100</lastBuildDate><atom:link href="http://diving.fabio.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Mi equipo para cueva del agua</title>
-        <link>https://diving.fabio.xyz/posts/mi_equipo/</link>
+        <link>http://diving.fabio.xyz/posts/mi_equipo/</link>
         <pubDate>Sat, 11 Dec 2021 01:06:47 +0100</pubDate>
         
-        <guid>https://diving.fabio.xyz/posts/mi_equipo/</guid>
-        <description>&lt;img src="https://diving.fabio.xyz/posts/mi_equipo/1.jpg" alt="Featured image of post Mi equipo para cueva del agua" /&gt;&lt;h1 id=&#34;el-material-que-uso&#34;&gt;El material que uso&lt;/h1&gt;
+        <guid>http://diving.fabio.xyz/posts/mi_equipo/</guid>
+        <description>&lt;img src="http://diving.fabio.xyz/posts/mi_equipo/1.jpg" alt="Featured image of post Mi equipo para cueva del agua" /&gt;&lt;h1 id=&#34;el-material-que-uso&#34;&gt;El material que uso&lt;/h1&gt;
 &lt;p&gt;Aqui hay mucho debate y gustos sobre que usar, yo pongo lo que he usado esta ultima vez:&lt;/p&gt;
 &lt;h2 id=&#34;traje&#34;&gt;Traje&lt;/h2&gt;
 &lt;p&gt;TDS Bylot de 7mm, un humedo que hace su trabajo, abriga mucho y tiene un bolsillo incorporado donde llevo el block de notas.&lt;/p&gt;
@@ -43,11 +43,11 @@
         </item>
         <item>
         <title>Bienvenida</title>
-        <link>https://diving.fabio.xyz/posts/bienvenida/</link>
+        <link>http://diving.fabio.xyz/posts/bienvenida/</link>
         <pubDate>Fri, 10 Dec 2021 23:30:26 +0100</pubDate>
         
-        <guid>https://diving.fabio.xyz/posts/bienvenida/</guid>
-        <description>&lt;img src="https://diving.fabio.xyz/posts/bienvenida/bienvenida.jpg" alt="Featured image of post Bienvenida" /&gt;&lt;p&gt;Pues aqui esta mi blog de buceo, lo he abierto porque hoy en dia es muy facil y porque asi dejo constancia de mis ideas y pensamientos sobre cosas de buceo. En este blog espero dejar informacion de inmersiones que sean relevantes para mi, cursos y demas cosas que me pasen en este mundo.&lt;/p&gt;
+        <guid>http://diving.fabio.xyz/posts/bienvenida/</guid>
+        <description>&lt;img src="http://diving.fabio.xyz/posts/bienvenida/bienvenida.jpg" alt="Featured image of post Bienvenida" /&gt;&lt;p&gt;Pues aqui esta mi blog de buceo, lo he abierto porque hoy en dia es muy facil y porque asi dejo constancia de mis ideas y pensamientos sobre cosas de buceo. En este blog espero dejar informacion de inmersiones que sean relevantes para mi, cursos y demas cosas que me pasen en este mundo.&lt;/p&gt;
 &lt;p&gt;Espero que sea util para alguien , y si no al menos espero que sirva para documentar alguna inmersion y alguna opinion sobre material etc.&lt;/p&gt;
 </description>
         </item>
