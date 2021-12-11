@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equipo on Mi blog de buceo</title>
+    <link>http://diving.fabio.xyz/categories/equipo/</link>
+    <description>Recent content in Equipo on Mi blog de buceo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 11 Dec 2021 01:06:47 +0100</lastBuildDate><atom:link href="http://diving.fabio.xyz/categories/equipo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi equipo para cueva del agua</title>
+      <link>http://diving.fabio.xyz/posts/mi_equipo/</link>
+      <pubDate>Sat, 11 Dec 2021 01:06:47 +0100</pubDate>
+      
+      <guid>http://diving.fabio.xyz/posts/mi_equipo/</guid>
+      <description>El material que uso Aqui hay mucho debate y gustos sobre que usar, yo pongo lo que he usado esta ultima vez:
+Traje TDS Bylot de 7mm, un humedo que hace su trabajo, abriga mucho y tiene un bolsillo incorporado donde llevo el block de notas.
+Aletas Son neutras y parece que impulsan poco, son las Apeks RK3
+Mascara La llevo graduada para poder ver los nudibranquios, son las Aqualung Teknika</description>
+    </item>
+    
+  </channel>
+</rss>
