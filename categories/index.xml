@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mi blog de buceo</title>
-    <link>http://diving.fabio.xyz/categories/</link>
+    <link>https://diving.fabio.xyz/categories/</link>
     <description>Recent content in Categories on Mi blog de buceo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 26 Dec 2021 00:47:56 +0100</lastBuildDate><atom:link href="http://diving.fabio.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 00:47:56 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploracion</title>
-      <link>http://diving.fabio.xyz/categories/exploracion/</link>
+      <link>https://diving.fabio.xyz/categories/exploracion/</link>
       <pubDate>Sun, 26 Dec 2021 00:47:56 +0100</pubDate>
       
-      <guid>http://diving.fabio.xyz/categories/exploracion/</guid>
+      <guid>https://diving.fabio.xyz/categories/exploracion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equipo</title>
-      <link>http://diving.fabio.xyz/categories/equipo/</link>
+      <link>https://diving.fabio.xyz/categories/equipo/</link>
       <pubDate>Sat, 11 Dec 2021 01:06:47 +0100</pubDate>
       
-      <guid>http://diving.fabio.xyz/categories/equipo/</guid>
+      <guid>https://diving.fabio.xyz/categories/equipo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ideas</title>
-      <link>http://diving.fabio.xyz/categories/ideas/</link>
+      <link>https://diving.fabio.xyz/categories/ideas/</link>
       <pubDate>Fri, 10 Dec 2021 23:30:26 +0100</pubDate>
       
-      <guid>http://diving.fabio.xyz/categories/ideas/</guid>
+      <guid>https://diving.fabio.xyz/categories/ideas/</guid>
       <description></description>
     </item>
     

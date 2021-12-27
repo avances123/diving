@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mi blog de buceo</title>
-    <link>http://diving.fabio.xyz/posts/</link>
+    <link>https://diving.fabio.xyz/posts/</link>
     <description>Recent content in Posts on Mi blog de buceo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 26 Dec 2021 00:47:56 +0100</lastBuildDate><atom:link href="http://diving.fabio.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 00:47:56 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cova dels arquets</title>
-      <link>http://diving.fabio.xyz/posts/cova_dels_arquets/</link>
+      <link>https://diving.fabio.xyz/posts/cova_dels_arquets/</link>
       <pubDate>Sun, 26 Dec 2021 00:47:56 +0100</pubDate>
       
-      <guid>http://diving.fabio.xyz/posts/cova_dels_arquets/</guid>
+      <guid>https://diving.fabio.xyz/posts/cova_dels_arquets/</guid>
       <description>La exploracion de la Cova dels Arquets En esta entrada explico desde el principio la idea, planificacion y ejecucion de la exploracion de una cueva marina en la costa catalana, aqui cuento mis retos, ilusiones, errores y exitos por si puede servir de referencia a algun explorador que empieza como es mi caso.
 Esta cueva está en la costa de l&amp;rsquo;Estartit, mirando a las islas Medas, en la pared que se sitúa al Norte de la punta del molinet.</description>
     </item>
     
     <item>
       <title>Mi equipo</title>
-      <link>http://diving.fabio.xyz/posts/mi_equipo/</link>
+      <link>https://diving.fabio.xyz/posts/mi_equipo/</link>
       <pubDate>Sat, 11 Dec 2021 01:06:47 +0100</pubDate>
       
-      <guid>http://diving.fabio.xyz/posts/mi_equipo/</guid>
+      <guid>https://diving.fabio.xyz/posts/mi_equipo/</guid>
       <description>El material que uso Aqui hay mucho debate y gustos sobre que usar, yo pongo lo que he usado esta ultima vez:
 Traje  TDS Bylot de 7mm, un humedo que hace su trabajo, abriga mucho y tiene un bolsillo incorporado donde llevo el block de notas. Scubapro Evertec , seco trilaminado muy viejo pero no entra agua. Mi sueño algun dia es comprar un SFTech.  Aletas  Apeks RK3 Son neutras y parece que impulsan poco, pero no he podido probar otras aun.</description>
     </item>
     
     <item>
       <title>Bienvenida</title>
-      <link>http://diving.fabio.xyz/posts/bienvenida/</link>
+      <link>https://diving.fabio.xyz/posts/bienvenida/</link>
       <pubDate>Fri, 10 Dec 2021 23:30:26 +0100</pubDate>
       
-      <guid>http://diving.fabio.xyz/posts/bienvenida/</guid>
+      <guid>https://diving.fabio.xyz/posts/bienvenida/</guid>
       <description>Pues aqui esta mi blog de buceo, lo he abierto porque hoy en dia es muy facil y porque asi dejo constancia de mis ideas y pensamientos sobre cosas de buceo. En este blog espero dejar informacion de inmersiones que sean relevantes para mi, cursos y demas cosas que me pasen en este mundo.
 Espero que sea util para alguien , y si no al menos espero que sirva para documentar alguna inmersion y alguna opinion sobre material etc.</description>
     </item>

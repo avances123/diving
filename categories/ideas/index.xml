@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ideas on Mi blog de buceo</title>
-    <link>http://diving.fabio.xyz/categories/ideas/</link>
+    <link>https://diving.fabio.xyz/categories/ideas/</link>
     <description>Recent content in Ideas on Mi blog de buceo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 10 Dec 2021 23:30:26 +0100</lastBuildDate><atom:link href="http://diving.fabio.xyz/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Dec 2021 23:30:26 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenida</title>
-      <link>http://diving.fabio.xyz/posts/bienvenida/</link>
+      <link>https://diving.fabio.xyz/posts/bienvenida/</link>
       <pubDate>Fri, 10 Dec 2021 23:30:26 +0100</pubDate>
       
-      <guid>http://diving.fabio.xyz/posts/bienvenida/</guid>
+      <guid>https://diving.fabio.xyz/posts/bienvenida/</guid>
       <description>Pues aqui esta mi blog de buceo, lo he abierto porque hoy en dia es muy facil y porque asi dejo constancia de mis ideas y pensamientos sobre cosas de buceo. En este blog espero dejar informacion de inmersiones que sean relevantes para mi, cursos y demas cosas que me pasen en este mundo.
 Espero que sea util para alguien , y si no al menos espero que sirva para documentar alguna inmersion y alguna opinion sobre material etc.</description>
     </item>

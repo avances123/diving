@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Mi blog de buceo</title>
-        <link>http://diving.fabio.xyz/</link>
+        <link>https://diving.fabio.xyz/</link>
         <description>Recent content on Mi blog de buceo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-es</language>
-        <lastBuildDate>Sun, 26 Dec 2021 00:47:56 +0100</lastBuildDate><atom:link href="http://diving.fabio.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 Dec 2021 00:47:56 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Cova dels arquets</title>
-        <link>http://diving.fabio.xyz/posts/cova_dels_arquets/</link>
+        <link>https://diving.fabio.xyz/posts/cova_dels_arquets/</link>
         <pubDate>Sun, 26 Dec 2021 00:47:56 +0100</pubDate>
         
-        <guid>http://diving.fabio.xyz/posts/cova_dels_arquets/</guid>
-        <description>&lt;img src="http://diving.fabio.xyz/posts/cova_dels_arquets/1.png" alt="Featured image of post Cova dels arquets" /&gt;&lt;h1 id=&#34;la-exploracion-de-la-cova-dels-arquets&#34;&gt;La exploracion de la Cova dels Arquets&lt;/h1&gt;
+        <guid>https://diving.fabio.xyz/posts/cova_dels_arquets/</guid>
+        <description>&lt;img src="https://diving.fabio.xyz/posts/cova_dels_arquets/1.png" alt="Featured image of post Cova dels arquets" /&gt;&lt;h1 id=&#34;la-exploracion-de-la-cova-dels-arquets&#34;&gt;La exploracion de la Cova dels Arquets&lt;/h1&gt;
 &lt;p&gt;En esta entrada explico desde el principio la idea, planificacion y ejecucion de la exploracion de una cueva marina en la costa catalana, aqui cuento mis retos, ilusiones, errores y exitos por si puede servir de referencia a algun explorador que empieza como es mi caso.&lt;/p&gt;
 &lt;p&gt;Esta cueva está en la costa de l&amp;rsquo;Estartit, mirando a las islas Medas, en la pared que se sitúa al Norte de la punta del molinet. Es una pequeña cueva marina a -10m pequeña pero muy divertida y bonita.&lt;/p&gt;
 &lt;h2 id=&#34;planificacion&#34;&gt;Planificacion&lt;/h2&gt;
@@ -27,11 +27,11 @@
 			flex-grow: 148; 
 			flex-basis: 357px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/2.png&#34; data-size=&#34;600x403&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/2.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/2.png&#34; data-size=&#34;600x403&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/2.png&#34;
 			width=&#34;600&#34;
 			height=&#34;403&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/2_hu60f8348a0ddfe30d21f8c670ae14597b_481562_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/2_hu60f8348a0ddfe30d21f8c670ae14597b_481562_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/2_hu60f8348a0ddfe30d21f8c670ae14597b_481562_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/2_hu60f8348a0ddfe30d21f8c670ae14597b_481562_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;Mapa con la logistica&#34;&gt;
 	&lt;/a&gt;
@@ -51,11 +51,11 @@
 			flex-grow: 222; 
 			flex-basis: 533px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/3.jpg&#34; data-size=&#34;2560x1152&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/3.jpg&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/3.jpg&#34; data-size=&#34;2560x1152&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/3.jpg&#34;
 			width=&#34;2560&#34;
 			height=&#34;1152&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/3_hu63ed7b644e08fce82f9aec1e2e04050a_531956_480x0_resize_q75_box.jpg 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/3_hu63ed7b644e08fce82f9aec1e2e04050a_531956_1024x0_resize_q75_box.jpg 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/3_hu63ed7b644e08fce82f9aec1e2e04050a_531956_480x0_resize_q75_box.jpg 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/3_hu63ed7b644e08fce82f9aec1e2e04050a_531956_1024x0_resize_q75_box.jpg 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;Entrada al agua&#34;&gt;
 	&lt;/a&gt;
@@ -71,11 +71,11 @@
 			flex-grow: 222; 
 			flex-basis: 533px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/4.jpg&#34; data-size=&#34;4000x1800&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/4.jpg&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/4.jpg&#34; data-size=&#34;4000x1800&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/4.jpg&#34;
 			width=&#34;4000&#34;
 			height=&#34;1800&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/4_hube20f0f17cf2192443b8605397392802_1699125_480x0_resize_q75_box.jpg 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/4_hube20f0f17cf2192443b8605397392802_1699125_1024x0_resize_q75_box.jpg 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/4_hube20f0f17cf2192443b8605397392802_1699125_480x0_resize_q75_box.jpg 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/4_hube20f0f17cf2192443b8605397392802_1699125_1024x0_resize_q75_box.jpg 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;Equipo&#34;&gt;
 	&lt;/a&gt;
@@ -99,11 +99,11 @@
 			flex-grow: 228; 
 			flex-basis: 549px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/perfil1.png&#34; data-size=&#34;1635x714&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/perfil1.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/perfil1.png&#34; data-size=&#34;1635x714&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/perfil1.png&#34;
 			width=&#34;1635&#34;
 			height=&#34;714&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/perfil1_hu2b7ba56fc0002f74c03e94dbda4fbaed_181621_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/perfil1_hu2b7ba56fc0002f74c03e94dbda4fbaed_181621_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/perfil1_hu2b7ba56fc0002f74c03e94dbda4fbaed_181621_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/perfil1_hu2b7ba56fc0002f74c03e94dbda4fbaed_181621_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;perfil de la inmersion 1&#34;&gt;
 	&lt;/a&gt;
@@ -121,11 +121,11 @@
 			flex-grow: 222; 
 			flex-basis: 533px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/5.jpg&#34; data-size=&#34;4000x1800&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/5.jpg&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/5.jpg&#34; data-size=&#34;4000x1800&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/5.jpg&#34;
 			width=&#34;4000&#34;
 			height=&#34;1800&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/5_hu67dea1c0974260e690a663727ce6998d_199447_480x0_resize_q75_box.jpg 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/5_hu67dea1c0974260e690a663727ce6998d_199447_1024x0_resize_q75_box.jpg 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/5_hu67dea1c0974260e690a663727ce6998d_199447_480x0_resize_q75_box.jpg 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/5_hu67dea1c0974260e690a663727ce6998d_199447_1024x0_resize_q75_box.jpg 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;Tablilla espeleo&#34;&gt;
 	&lt;/a&gt;
@@ -141,11 +141,11 @@
 			flex-grow: 177; 
 			flex-basis: 425px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/6.png&#34; data-size=&#34;601x339&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/6.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/6.png&#34; data-size=&#34;601x339&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/6.png&#34;
 			width=&#34;601&#34;
 			height=&#34;339&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/6_hub02439e352a44ab1f98c66b69491c7f7_244410_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/6_hub02439e352a44ab1f98c66b69491c7f7_244410_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/6_hub02439e352a44ab1f98c66b69491c7f7_244410_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/6_hub02439e352a44ab1f98c66b69491c7f7_244410_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;Los dos hilos&#34;&gt;
 	&lt;/a&gt;
@@ -161,11 +161,11 @@
 			flex-grow: 177; 
 			flex-basis: 425px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/7.png&#34; data-size=&#34;598x337&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/7.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/7.png&#34; data-size=&#34;598x337&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/7.png&#34;
 			width=&#34;598&#34;
 			height=&#34;337&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/7_hu65fcc83a952c8442b859aabfa9a46234_299237_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/7_hu65fcc83a952c8442b859aabfa9a46234_299237_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/7_hu65fcc83a952c8442b859aabfa9a46234_299237_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/7_hu65fcc83a952c8442b859aabfa9a46234_299237_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;Girando hacia la punta&#34;&gt;
 	&lt;/a&gt;
@@ -182,11 +182,11 @@
 			flex-grow: 177; 
 			flex-basis: 426px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/9.png&#34; data-size=&#34;599x337&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/9.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/9.png&#34; data-size=&#34;599x337&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/9.png&#34;
 			width=&#34;599&#34;
 			height=&#34;337&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/9_hu6c3dc01ab09408b6327cd56d328a75b3_315636_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/9_hu6c3dc01ab09408b6327cd56d328a75b3_315636_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/9_hu6c3dc01ab09408b6327cd56d328a75b3_315636_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/9_hu6c3dc01ab09408b6327cd56d328a75b3_315636_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;Burbuja de la punta&#34;&gt;
 	&lt;/a&gt;
@@ -202,11 +202,11 @@
 			flex-grow: 180; 
 			flex-basis: 432px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/10.png&#34; data-size=&#34;597x331&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/10.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/10.png&#34; data-size=&#34;597x331&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/10.png&#34;
 			width=&#34;597&#34;
 			height=&#34;331&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/10_hua07177581e004d0d3f3121e5616eea7b_212687_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/10_hua07177581e004d0d3f3121e5616eea7b_212687_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/10_hua07177581e004d0d3f3121e5616eea7b_212687_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/10_hua07177581e004d0d3f3121e5616eea7b_212687_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;Galeria hacia la punta desde la sala grande&#34;&gt;
 	&lt;/a&gt;
@@ -222,11 +222,11 @@
 			flex-grow: 179; 
 			flex-basis: 430px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/11.png&#34; data-size=&#34;596x332&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/11.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/11.png&#34; data-size=&#34;596x332&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/11.png&#34;
 			width=&#34;596&#34;
 			height=&#34;332&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/11_hu806fc786ca44ff2e252fdb6405b6e8dd_247274_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/11_hu806fc786ca44ff2e252fdb6405b6e8dd_247274_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/11_hu806fc786ca44ff2e252fdb6405b6e8dd_247274_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/11_hu806fc786ca44ff2e252fdb6405b6e8dd_247274_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;volviendo en la sala grande&#34;&gt;
 	&lt;/a&gt;
@@ -243,11 +243,11 @@
 			flex-grow: 178; 
 			flex-basis: 427px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/12.png&#34; data-size=&#34;599x336&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/12.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/12.png&#34; data-size=&#34;599x336&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/12.png&#34;
 			width=&#34;599&#34;
 			height=&#34;336&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/12_hu1bd5e22d4276ae884e0c45880e93571b_248262_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/12_hu1bd5e22d4276ae884e0c45880e93571b_248262_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/12_hu1bd5e22d4276ae884e0c45880e93571b_248262_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/12_hu1bd5e22d4276ae884e0c45880e93571b_248262_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;lodo cerca de la restriccion&#34;&gt;
 	&lt;/a&gt;
@@ -264,11 +264,11 @@
 			flex-grow: 179; 
 			flex-basis: 431px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/13.png&#34; data-size=&#34;599x333&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/13.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/13.png&#34; data-size=&#34;599x333&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/13.png&#34;
 			width=&#34;599&#34;
 			height=&#34;333&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/13_hu48efd5dcc92ecd4743150c5631071252_260535_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/13_hu48efd5dcc92ecd4743150c5631071252_260535_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/13_hu48efd5dcc92ecd4743150c5631071252_260535_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/13_hu48efd5dcc92ecd4743150c5631071252_260535_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;carrete acabado&#34;&gt;
 	&lt;/a&gt;
@@ -286,11 +286,11 @@
 			flex-grow: 228; 
 			flex-basis: 549px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/perfil2.png&#34; data-size=&#34;1636x715&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/perfil2.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/perfil2.png&#34; data-size=&#34;1636x715&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/perfil2.png&#34;
 			width=&#34;1636&#34;
 			height=&#34;715&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/perfil2_hu137d8b6bd200b8e80010cb9969ee8a2d_178907_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/perfil2_hu137d8b6bd200b8e80010cb9969ee8a2d_178907_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/perfil2_hu137d8b6bd200b8e80010cb9969ee8a2d_178907_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/perfil2_hu137d8b6bd200b8e80010cb9969ee8a2d_178907_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;perfil de la inmersion 2&#34;&gt;
 	&lt;/a&gt;
@@ -308,11 +308,11 @@
 			flex-grow: 70; 
 			flex-basis: 168px&#34;
 	&gt;
-	&lt;a href=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/topo.png&#34; data-size=&#34;721x1026&#34;&gt;
-		&lt;img src=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/topo.png&#34;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/topo.png&#34; data-size=&#34;721x1026&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/topo.png&#34;
 			width=&#34;721&#34;
 			height=&#34;1026&#34;
-			srcset=&#34;http://diving.fabio.xyz/posts/cova_dels_arquets/topo_hu09f3971ee0a108860fa7aee003750fb6_135569_480x0_resize_box_3.png 480w, http://diving.fabio.xyz/posts/cova_dels_arquets/topo_hu09f3971ee0a108860fa7aee003750fb6_135569_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/topo_hu09f3971ee0a108860fa7aee003750fb6_135569_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/topo_hu09f3971ee0a108860fa7aee003750fb6_135569_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;topografia&#34;&gt;
 	&lt;/a&gt;
@@ -350,11 +350,11 @@
         </item>
         <item>
         <title>Mi equipo</title>
-        <link>http://diving.fabio.xyz/posts/mi_equipo/</link>
+        <link>https://diving.fabio.xyz/posts/mi_equipo/</link>
         <pubDate>Sat, 11 Dec 2021 01:06:47 +0100</pubDate>
         
-        <guid>http://diving.fabio.xyz/posts/mi_equipo/</guid>
-        <description>&lt;img src="http://diving.fabio.xyz/posts/mi_equipo/1.jpg" alt="Featured image of post Mi equipo" /&gt;&lt;h1 id=&#34;el-material-que-uso&#34;&gt;El material que uso&lt;/h1&gt;
+        <guid>https://diving.fabio.xyz/posts/mi_equipo/</guid>
+        <description>&lt;img src="https://diving.fabio.xyz/posts/mi_equipo/1.jpg" alt="Featured image of post Mi equipo" /&gt;&lt;h1 id=&#34;el-material-que-uso&#34;&gt;El material que uso&lt;/h1&gt;
 &lt;p&gt;Aqui hay mucho debate y gustos sobre que usar, yo pongo lo que he usado esta ultima vez:&lt;/p&gt;
 &lt;h2 id=&#34;traje&#34;&gt;Traje&lt;/h2&gt;
 &lt;ul&gt;
@@ -406,11 +406,11 @@
         </item>
         <item>
         <title>Bienvenida</title>
-        <link>http://diving.fabio.xyz/posts/bienvenida/</link>
+        <link>https://diving.fabio.xyz/posts/bienvenida/</link>
         <pubDate>Fri, 10 Dec 2021 23:30:26 +0100</pubDate>
         
-        <guid>http://diving.fabio.xyz/posts/bienvenida/</guid>
-        <description>&lt;img src="http://diving.fabio.xyz/posts/bienvenida/bienvenida.jpg" alt="Featured image of post Bienvenida" /&gt;&lt;p&gt;Pues aqui esta mi blog de buceo, lo he abierto porque hoy en dia es muy facil y porque asi dejo constancia de mis ideas y pensamientos sobre cosas de buceo. En este blog espero dejar informacion de inmersiones que sean relevantes para mi, cursos y demas cosas que me pasen en este mundo.&lt;/p&gt;
+        <guid>https://diving.fabio.xyz/posts/bienvenida/</guid>
+        <description>&lt;img src="https://diving.fabio.xyz/posts/bienvenida/bienvenida.jpg" alt="Featured image of post Bienvenida" /&gt;&lt;p&gt;Pues aqui esta mi blog de buceo, lo he abierto porque hoy en dia es muy facil y porque asi dejo constancia de mis ideas y pensamientos sobre cosas de buceo. En este blog espero dejar informacion de inmersiones que sean relevantes para mi, cursos y demas cosas que me pasen en este mundo.&lt;/p&gt;
 &lt;p&gt;Espero que sea util para alguien , y si no al menos espero que sirva para documentar alguna inmersion y alguna opinion sobre material etc.&lt;/p&gt;
 &lt;p&gt;Ultimamente percibo que somos cada vez mas y mas buceadores que seguimos aprendiendo y pasando del buceo recreativo al tecnico, cuevas pecios y demas. Yo estoy en ese camino, y me gustaria aportar mi vision de todo ese proceso, las cosas buenas que me suceden y tambien las cosas malas. El buceo es una actividad realemente sencilla, y no muy exigente, es facil progresar, deberia ser una actividad donde todos estemos contentos por estar en ese  entorno acuatico y vivir pensando en flotar en el agua, nuestro hobby es estar en el agua, igual que el de otros puede ser hacer maquetas o punto de cruz, y no veo entre la comunidad de costureros de punto de cruz&lt;/p&gt;
 </description>
