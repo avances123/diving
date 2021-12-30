@@ -6,7 +6,24 @@
         <description>Recent content on Mi blog de buceo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-es</language>
-        <lastBuildDate>Sun, 26 Dec 2021 00:47:56 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 30 Dec 2021 09:58:50 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Plantilla milimetrada para hacer croquis</title>
+        <link>https://diving.fabio.xyz/posts/plantilla_milimetrada/</link>
+        <pubDate>Thu, 30 Dec 2021 09:58:50 +0100</pubDate>
+        
+        <guid>https://diving.fabio.xyz/posts/plantilla_milimetrada/</guid>
+        <description>&lt;img src="https://diving.fabio.xyz/posts/plantilla_milimetrada/portada.jpg" alt="Featured image of post Plantilla milimetrada para hacer croquis" /&gt;&lt;p&gt;He adaptado la plantilla de &lt;a class=&#34;link&#34; href=&#34;https://www.derekbristol.com/survey-efficiency&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Derek Bristol&lt;/a&gt; para hacer croquis de espeleologia, traduciendolo al español y añadiendo algun campo que otro. En todo caso igual que ha hecho él, voy a compartir el fichero de inkscape para poder editarlo quien quiera, y tambien el pdf para simplemente imprimirlo y usarlo.&lt;/p&gt;
+&lt;p&gt;Como yo soy mas buceador que espeleologo aereo, hago mas croquis fuera del agua al salir de la cueva que in situ. Asi que lo he hecho para el tamaño A4, supongo que si alguien lo quiere usar en la cueva en una carpeta A5, puede doblarlo tambien.&lt;/p&gt;
+&lt;h2 id=&#34;enlaces&#34;&gt;Enlaces&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;plantilla.ai&#34; &gt;Formato Vectorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;plantilla.pdf&#34; &gt;Formato PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Se deberia imprimir en azul y no en blanco y negro, para asi poder distinguir mejor entre el lapiz y el propio papel milimetrado.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Cova dels arquets</title>
         <link>https://diving.fabio.xyz/posts/cova_dels_arquets/</link>
         <pubDate>Sun, 26 Dec 2021 00:47:56 +0100</pubDate>
