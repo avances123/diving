@@ -29,7 +29,7 @@
         <pubDate>Sun, 26 Dec 2021 00:47:56 +0100</pubDate>
         
         <guid>https://diving.fabio.xyz/posts/cova_dels_arquets/</guid>
-        <description>&lt;img src="https://diving.fabio.xyz/posts/cova_dels_arquets/1.png" alt="Featured image of post Cova dels arquets" /&gt;&lt;h1 id=&#34;la-exploracion-de-la-cova-dels-arquets&#34;&gt;La exploracion de la Cova dels Arquets&lt;/h1&gt;
+        <description>&lt;img src="https://diving.fabio.xyz/posts/cova_dels_arquets/entrada.png" alt="Featured image of post Cova dels arquets" /&gt;&lt;h1 id=&#34;la-exploracion-de-la-cova-dels-arquets&#34;&gt;La exploracion de la Cova dels Arquets&lt;/h1&gt;
 &lt;p&gt;En esta entrada explico desde el principio la idea, planificacion y ejecucion de la exploracion de una cueva marina en la costa catalana, aqui cuento mis retos, ilusiones, errores y exitos por si puede servir de referencia a algun explorador que empieza como es mi caso.&lt;/p&gt;
 &lt;p&gt;Esta cueva está en la costa de l&amp;rsquo;Estartit, mirando a las islas Medas, en la pared que se sitúa al Norte de la punta del molinet. Es una pequeña cueva marina a -10m pequeña pero muy divertida y bonita.&lt;/p&gt;
 &lt;h2 id=&#34;planificacion&#34;&gt;Planificacion&lt;/h2&gt;
@@ -252,6 +252,25 @@
 	
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Decidimos sacar la cabeza en la burbuja, nos quitamos los reguladores con cuidado hasta ver que se podía respirar, y comentamos la jugada, la punta de la cueva, y los planes para topografiar en la segunda pasada.&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 177; 
+			flex-basis: 426px&#34;
+	&gt;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/1.png&#34; data-size=&#34;1920x1080&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/1.png&#34;
+			width=&#34;1920&#34;
+			height=&#34;1080&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/1_hua5fcb61f551b00610335cacb26e880d0_2125596_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/1_hua5fcb61f551b00610335cacb26e880d0_2125596_1024x0_resize_box_3.png 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;En la burbuja con Joel&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;En la burbuja con Joel&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Llegando de vuelta a la restricción vi como el hilo, al rozar con el fondo, creaba bolas de lodo que enturbiaban el agua bastante, hay que ser fino en esta segunda parte de la cueva.&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	
@@ -316,8 +335,7 @@
 	
 &lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;resultado&#34;&gt;Resultado&lt;/h2&gt;
-&lt;p&gt;Aqui dejo la imagen con la topografia, mas adelante junto con su ficha, sera publicada en &lt;a class=&#34;link&#34; href=&#34;https://www.espeleoindex.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;espeleoindex&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;topografía&#34;&gt;Topografía&lt;/h3&gt;
 &lt;p&gt;&lt;figure 
 	
 		class=&#34;gallery-image&#34; 
@@ -338,6 +356,7 @@
 	
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Dejo aqui tambien el &lt;a class=&#34;link&#34; href=&#34;topo_arquets.pdf&#34; &gt;pdf&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
 &lt;p&gt;Aqui dejo el video de una pasada hasta la punta y volver&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
@@ -348,6 +367,7 @@
     &lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h3 id=&#34;georeferenciación&#34;&gt;Georeferenciación&lt;/h3&gt;
 &lt;p&gt;El &lt;a class=&#34;link&#34; href=&#34;cova_dels_arquets.kml&#34; &gt;kml&lt;/a&gt; con la topografia georeferenciada&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	
@@ -368,7 +388,13 @@
 	&lt;figcaption&gt;Cueva sobre el mapa&lt;/figcaption&gt;
 	
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Ademas queda un hilo instalado despues de la ventana de la entrada, que quitare en el corto plazo, para dejar la cueva como estaba y no provocar que alguien se sienta tentado a usarlo como guia para nada.&lt;/p&gt;
+&lt;h3 id=&#34;referencias&#34;&gt;Referencias&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://espeleoindex.com/crearPDF.php?id=4337&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;espeleoindex&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;estado-de-la-cueva&#34;&gt;Estado de la cueva&lt;/h3&gt;
+&lt;p&gt;Queda un hilo instalado despues de la ventana de la entrada, que quitare en el corto plazo, para dejar la cueva como estaba y no provocar que alguien se sienta tentado a usarlo como guia para nada.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;Estas dos inmersiones han sido maravillosas por dar un paso mas en mi hobby como buceador, no solo buceando en una cueva sin informacion previa, sino creando dicha informacion, con toda la humildad y la ilusion posible, divirtiendome por el camino, y descubriendo una nueva aficion fuera del agua, de documentar y dibujar para crear algo que pueda servir a mi comunidad de buceador@s.&lt;/p&gt;
 &lt;p&gt;Pero por supuesto faltan muchas cosas por mejorar que requeiren seguir sumergiendome:&lt;/p&gt;
