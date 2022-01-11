@@ -494,6 +494,7 @@
 &lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;resultado&#34;&gt;Resultado&lt;/h2&gt;
 &lt;h3 id=&#34;topografía&#34;&gt;Topografía&lt;/h3&gt;
+&lt;h4 id=&#34;planta-y-perfil&#34;&gt;Planta y Perfil&lt;/h4&gt;
 &lt;p&gt;&lt;figure 
 	
 		class=&#34;gallery-image&#34; 
@@ -507,13 +508,33 @@
 			height=&#34;3508&#34;
 			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/topo_huf8776edc581bee5f64b65d290132a05d_371696_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/topo_huf8776edc581bee5f64b65d290132a05d_371696_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
-			alt=&#34;topografia&#34;&gt;
+			alt=&#34;topografia de la cueva&#34;&gt;
 	&lt;/a&gt;
 	
-	&lt;figcaption&gt;topografia&lt;/figcaption&gt;
+	&lt;figcaption&gt;topografia de la cueva&lt;/figcaption&gt;
 	
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Dejo aqui tambien el &lt;a class=&#34;link&#34; href=&#34;topo_arquets.pdf&#34; &gt;pdf&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;render-en-3d&#34;&gt;Render en 3d&lt;/h4&gt;
+&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 196; 
+			flex-basis: 471px&#34;
+	&gt;
+	&lt;a href=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/3d.png&#34; data-size=&#34;2538x1292&#34;&gt;
+		&lt;img src=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/3d.png&#34;
+			width=&#34;2538&#34;
+			height=&#34;1292&#34;
+			srcset=&#34;https://diving.fabio.xyz/posts/cova_dels_arquets/3d_hubcb89e8bfa6de51da8bea1057eb5ebc1_179056_480x0_resize_box_3.png 480w, https://diving.fabio.xyz/posts/cova_dels_arquets/3d_hubcb89e8bfa6de51da8bea1057eb5ebc1_179056_1024x0_resize_box_3.png 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;render en 3d de la cueva&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;render en 3d de la cueva&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
 &lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
 &lt;p&gt;Aqui dejo el video de una pasada hasta la punta y volver&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
