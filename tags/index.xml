@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Mi blog de buceo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 10 Jan 2022 00:19:59 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 00:47:56 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploracion</title>
+      <link>https://diving.fabio.xyz/tags/exploracion/</link>
+      <pubDate>Thu, 20 Jan 2022 00:47:56 +0100</pubDate>
+      
+      <guid>https://diving.fabio.xyz/tags/exploracion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topografia</title>
+      <link>https://diving.fabio.xyz/tags/topografia/</link>
+      <pubDate>Thu, 20 Jan 2022 00:47:56 +0100</pubDate>
+      
+      <guid>https://diving.fabio.xyz/tags/topografia/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Agua Dulce</title>
       <link>https://diving.fabio.xyz/tags/agua-dulce/</link>
@@ -35,29 +53,11 @@
     </item>
     
     <item>
-      <title>Exploracion</title>
-      <link>https://diving.fabio.xyz/tags/exploracion/</link>
-      <pubDate>Mon, 10 Jan 2022 00:19:59 +0100</pubDate>
-      
-      <guid>https://diving.fabio.xyz/tags/exploracion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Therion</title>
       <link>https://diving.fabio.xyz/tags/therion/</link>
       <pubDate>Mon, 10 Jan 2022 00:19:59 +0100</pubDate>
       
       <guid>https://diving.fabio.xyz/tags/therion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topografia</title>
-      <link>https://diving.fabio.xyz/tags/topografia/</link>
-      <pubDate>Mon, 10 Jan 2022 00:19:59 +0100</pubDate>
-      
-      <guid>https://diving.fabio.xyz/tags/topografia/</guid>
       <description></description>
     </item>
     

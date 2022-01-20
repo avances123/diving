@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://diving.fabio.xyz/tags/agua-dulce/</loc>
-    <lastmod>2022-01-17T12:52:12+01:00</lastmod>
-  </url><url>
     <loc>https://diving.fabio.xyz/categories/</loc>
+    <lastmod>2022-01-20T12:52:12+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/exploracion/</loc>
+    <lastmod>2022-01-20T12:52:12+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/categories/exploracion/</loc>
+    <lastmod>2022-01-20T12:52:12+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/posts/la_maquina_de_hacer_nudos/</loc>
+    <lastmod>2022-01-20T12:52:12+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/</loc>
+    <lastmod>2022-01-20T12:52:12+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/posts/</loc>
+    <lastmod>2022-01-20T12:52:12+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/</loc>
+    <lastmod>2022-01-20T12:52:12+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/topografia/</loc>
+    <lastmod>2022-01-20T12:52:12+01:00</lastmod>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/agua-dulce/</loc>
     <lastmod>2022-01-17T12:52:12+01:00</lastmod>
   </url><url>
     <loc>https://diving.fabio.xyz/tags/cueva/</loc>
@@ -17,25 +38,7 @@
     <loc>https://diving.fabio.xyz/posts/la_galeria_del_stress/</loc>
     <lastmod>2022-01-17T12:52:12+01:00</lastmod>
   </url><url>
-    <loc>https://diving.fabio.xyz/tags/exploracion/</loc>
-    <lastmod>2022-01-17T12:52:12+01:00</lastmod>
-  </url><url>
-    <loc>https://diving.fabio.xyz/categories/exploracion/</loc>
-    <lastmod>2022-01-17T12:52:12+01:00</lastmod>
-  </url><url>
-    <loc>https://diving.fabio.xyz/</loc>
-    <lastmod>2022-01-17T12:52:12+01:00</lastmod>
-  </url><url>
-    <loc>https://diving.fabio.xyz/posts/</loc>
-    <lastmod>2022-01-17T12:52:12+01:00</lastmod>
-  </url><url>
-    <loc>https://diving.fabio.xyz/tags/</loc>
-    <lastmod>2022-01-17T12:52:12+01:00</lastmod>
-  </url><url>
     <loc>https://diving.fabio.xyz/tags/therion/</loc>
-    <lastmod>2022-01-17T12:52:12+01:00</lastmod>
-  </url><url>
-    <loc>https://diving.fabio.xyz/tags/topografia/</loc>
     <lastmod>2022-01-17T12:52:12+01:00</lastmod>
   </url><url>
     <loc>https://diving.fabio.xyz/tags/botellas/</loc>
