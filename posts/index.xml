@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Mi blog de buceo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 20 Jan 2022 00:47:56 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Feb 2022 00:47:56 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cova dels arquets</title>
+      <link>https://diving.fabio.xyz/posts/cova_dels_arquets/</link>
+      <pubDate>Sat, 26 Feb 2022 00:47:56 +0100</pubDate>
+      
+      <guid>https://diving.fabio.xyz/posts/cova_dels_arquets/</guid>
+      <description>La exploracion de la Cova dels Arquets En esta entrada explico desde el principio la idea, planificacion y ejecucion de la exploracion de una cueva marina en la costa catalana, aqui cuento mis retos, ilusiones, errores y exitos por si puede servir de referencia a algun explorador que empieza como es mi caso.
+Esta cueva está en la costa de l&amp;rsquo;Estartit, mirando a las islas Medas, en la pared que se sitúa al Norte de la punta del molinet.</description>
+    </item>
+    
     <item>
       <title>La maquina de hacer nudos</title>
       <link>https://diving.fabio.xyz/posts/la_maquina_de_hacer_nudos/</link>
@@ -45,16 +55,6 @@ Mis razones fundamentales para usarlas con respecto a otro tipo de botellas, son
       <guid>https://diving.fabio.xyz/posts/plantilla_milimetrada/</guid>
       <description>He adaptado la plantilla de Derek Bristol para hacer croquis de espeleologia, traduciendolo al español y añadiendo algun campo que otro. En todo caso igual que ha hecho él, voy a compartir el fichero de inkscape para poder editarlo quien quiera, y tambien el pdf para simplemente imprimirlo y usarlo.
 Como yo soy mas buceador que espeleologo aereo, hago mas croquis fuera del agua al salir de la cueva que in situ.</description>
-    </item>
-    
-    <item>
-      <title>Cova dels arquets</title>
-      <link>https://diving.fabio.xyz/posts/cova_dels_arquets/</link>
-      <pubDate>Sun, 26 Dec 2021 00:47:56 +0100</pubDate>
-      
-      <guid>https://diving.fabio.xyz/posts/cova_dels_arquets/</guid>
-      <description>La exploracion de la Cova dels Arquets En esta entrada explico desde el principio la idea, planificacion y ejecucion de la exploracion de una cueva marina en la costa catalana, aqui cuento mis retos, ilusiones, errores y exitos por si puede servir de referencia a algun explorador que empieza como es mi caso.
-Esta cueva está en la costa de l&amp;rsquo;Estartit, mirando a las islas Medas, en la pared que se sitúa al Norte de la punta del molinet.</description>
     </item>
     
     <item>
