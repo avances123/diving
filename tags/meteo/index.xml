@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meteo on Mi blog de buceo</title>
+    <link>https://diving.fabio.xyz/tags/meteo/</link>
+    <description>Recent content in Meteo on Mi blog de buceo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 06 Apr 2022 00:47:56 +0100</lastBuildDate><atom:link href="https://diving.fabio.xyz/tags/meteo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meterologia para el buceo</title>
+      <link>https://diving.fabio.xyz/posts/meteorologia_para_el_buceo/</link>
+      <pubDate>Wed, 06 Apr 2022 00:47:56 +0100</pubDate>
+      
+      <guid>https://diving.fabio.xyz/posts/meteorologia_para_el_buceo/</guid>
+      <description>Introducción Cualquiera de nosotros, siempre que estemos planeando un buceo, nos preocupa cual sera el estado de la mar para el instante de la inmersion. Nuestro hobby favorito se desarrolla al aire libre y dentro del medio marino, y eso hace que dependamos en un grado enorme de la meteorologia para poder efectuar nuestra inmersion con exito.
+En mi opinion, no sirve de nada hacer una planificacion compleja de buceo y luego desatender una correcta interpretacion del tiempo esperado para ese dia.</description>
+    </item>
+    
+  </channel>
+</rss>
