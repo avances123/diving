@@ -3,16 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://diving.fabio.xyz/categories/</loc>
-    <lastmod>2022-04-06T12:52:12+01:00</lastmod>
+    <lastmod>2022-06-09T22:59:01+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://diving.fabio.xyz/tags/ideas/</loc>
-    <lastmod>2022-04-06T12:52:12+01:00</lastmod>
+    <loc>https://diving.fabio.xyz/posts/dejando_neutros_los_accesorios/</loc>
+    <lastmod>2022-06-09T22:59:01+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/equipo/</loc>
+    <lastmod>2022-06-09T22:59:01+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://diving.fabio.xyz/categories/ideas/</loc>
+    <lastmod>2022-06-09T22:59:01+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diving.fabio.xyz/</loc>
+    <lastmod>2022-06-09T22:59:01+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diving.fabio.xyz/posts/</loc>
+    <lastmod>2022-06-09T22:59:01+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/</loc>
+    <lastmod>2022-06-09T22:59:01+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diving.fabio.xyz/tags/ideas/</loc>
     <lastmod>2022-04-06T12:52:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -28,21 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://diving.fabio.xyz/posts/meteorologia_para_el_buceo/</loc>
-    <lastmod>2022-04-06T12:52:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diving.fabio.xyz/</loc>
-    <lastmod>2022-04-06T12:52:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diving.fabio.xyz/posts/</loc>
-    <lastmod>2022-04-06T12:52:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diving.fabio.xyz/tags/</loc>
     <lastmod>2022-04-06T12:52:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -98,11 +108,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://diving.fabio.xyz/tags/botellas/</loc>
-    <lastmod>2022-01-17T12:52:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diving.fabio.xyz/tags/equipo/</loc>
     <lastmod>2022-01-17T12:52:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
